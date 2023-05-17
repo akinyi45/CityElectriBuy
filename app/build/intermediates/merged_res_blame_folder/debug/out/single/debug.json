@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-hdpi_ic_phone.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-hdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_bg_view.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/bg_view.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxhdpi_baseline_add_box_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxhdpi/baseline_add_box_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xhdpi_my_elecricity.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xhdpi/my_elecricity.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xxhdpi_my_elecricity.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xxhdpi/my_elecricity.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xhdpi_baseline_add_box_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xhdpi/baseline_add_box_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_powerusage.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/powerusage.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxhdpi_ic_logout.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xhdpi_ic_watch.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xhdpi/ic_watch.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-hdpi_ic_settings.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_warrantylogo.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/warrantylogo.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_warranty.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_warranty.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_powerusege.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_powerusege.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_settings.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-ldpi_ic_search.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-ldpi/ic_search.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-mdpi_ic_watch.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-mdpi/ic_watch.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxxhdpi_ic_watch.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxxhdpi/ic_watch.png"
+    },
+    {
+        "merged": "com.example.cityelectribuy.app-merged_res-32:/layout_activity_accessability.xml.flat",
+        "source": "com.example.cityelectribuy.app-main-34:/layout/activity_accessability.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxhdpi_ic_watch.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxhdpi/ic_watch.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xxxhdpi_my_elecricity.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xxxhdpi/my_elecricity.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v21_ic_watch.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v21/ic_watch.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_warranty.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/warranty.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-hdpi_ic_search.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_dashboard.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xhdpi_ic_phone.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxhdpi_ic_phone.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xhdpi_ic_logout.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-ldpi_baseline_add_box_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-ldpi/baseline_add_box_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-ldpi_ic_phone.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-ldpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_item_layout.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/item_layout.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v21/ic_logout.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-mdpi_baseline_add_box_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-mdpi/baseline_add_box_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_security.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/security.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_security.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_security.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-ldpi_ic_logout.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-ldpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v21_baseline_add_box_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v21/baseline_add_box_24.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_search.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xhdpi_ic_search.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxhdpi_ic_settings.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-mdpi_ic_phone.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-mdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-ldpi_ic_watch.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-ldpi/ic_watch.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_login.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/login.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_eletric.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/eletric.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-hdpi_baseline_add_box_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-hdpi/baseline_add_box_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-mdpi_ic_search.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_phone.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/phone.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v21/ic_phone.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable_list.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/drawable/list.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxxhdpi_baseline_add_box_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxxhdpi/baseline_add_box_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xhdpi_ic_settings.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-hdpi_ic_watch.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-hdpi/ic_watch.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-mdpi_ic_logout.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-mdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-mdpi_my_elecricity.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-mdpi/my_elecricity.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_accessability.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_accessability.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-hdpi_ic_logout.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-hdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_quality.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_quality.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-mdpi_ic_settings.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-anydpi-v21/ic_settings.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-ldpi_ic_settings.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-ldpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_logout.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_logout.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_viewdivices.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_viewdivices.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-hdpi_my_elecricity.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-hdpi/my_elecricity.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-pngs-28:/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/layout_activity_adddivices.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_adddivices.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

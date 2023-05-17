@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_settings.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_accessability.xml",
+        "source": "com.example.cityelectribuy.app-main-34:/layout/activity_accessability.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_quality.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_quality.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_viewdivices.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_viewdivices.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_powerusege.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_powerusege.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_dashboard.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_security.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_security.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_search.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/item_layout.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/item_layout.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_logout.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_logout.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_adddivices.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_adddivices.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_warranty.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_warranty.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-mergeDebugResources-31:/layout/activity_accessability.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.cityelectribuy.app-main-34:/layout/activity_accessability.xml"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0000</color>
+    <color name="color_primary_light">#673AB7</color>
+    <color name="purple_200">#673AB7</color>
+    <color name="purple_500">#673AB7</color>
+    <color name="purple_700">#673AB7</color>
+    <color name="teal_200">#009688</color>
+    <color name="teal_700">#009688</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">City Electribuy</string>
+    <string name="default_web_client_id" translatable="false">574579651132-2pj32gj69amufsqv0io98j4vutb6a4od.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">574579651132</string>
+    <string name="google_api_key" translatable="false">AIzaSyAqEHRH8HkasIlnFFzSUbEH1twhkA0WiQw</string>
+    <string name="google_app_id" translatable="false">1:574579651132:android:399b925e2afb63839a4939</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAqEHRH8HkasIlnFFzSUbEH1twhkA0WiQw</string>
+    <string name="google_storage_bucket" translatable="false">city-electribuy-eb874.appspot.com</string>
+    <string name="project_id" translatable="false">city-electribuy-eb874</string>
+    <style name="Base.Theme.CityElectribuy" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CityElectribuy" parent="Base.Theme.CityElectribuy"/>
+</resources>

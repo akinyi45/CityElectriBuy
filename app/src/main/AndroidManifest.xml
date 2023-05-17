@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/my_elecricity"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/eletric"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CityElectribuy"
+        tools:targetApi="31">
+        <activity
+            android:name=".PowerusegeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WarrantyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecurityActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AccessabilityActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QualityActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewdivicesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdddivicesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".logoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

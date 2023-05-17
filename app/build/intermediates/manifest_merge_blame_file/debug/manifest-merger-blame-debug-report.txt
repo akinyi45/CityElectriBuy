@@ -1,0 +1,232 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.cityelectribuy"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-storage:20.2.0] /home/emobilis/.gradle/caches/transforms-3/87a1bc822c58c6b1a9edce82f9737457/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-storage:20.2.0] /home/emobilis/.gradle/caches/transforms-3/87a1bc822c58c6b1a9edce82f9737457/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:25:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-storage:20.2.0] /home/emobilis/.gradle/caches/transforms-3/87a1bc822c58c6b1a9edce82f9737457/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:26:5-67
+14-->[com.google.firebase:firebase-storage:20.2.0] /home/emobilis/.gradle/caches/transforms-3/87a1bc822c58c6b1a9edce82f9737457/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:26:22-64
+15
+16    <permission
+16-->[androidx.core:core:1.10.1] /home/emobilis/.gradle/caches/transforms-3/a197831e9bdb79abd7f7d499aa9bad55/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.cityelectribuy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.10.1] /home/emobilis/.gradle/caches/transforms-3/a197831e9bdb79abd7f7d499aa9bad55/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.10.1] /home/emobilis/.gradle/caches/transforms-3/a197831e9bdb79abd7f7d499aa9bad55/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.cityelectribuy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.10.1] /home/emobilis/.gradle/caches/transforms-3/a197831e9bdb79abd7f7d499aa9bad55/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.10.1] /home/emobilis/.gradle/caches/transforms-3/a197831e9bdb79abd7f7d499aa9bad55/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:5:5-57:19
+23        android:name="androidx.multidex.MultiDexApplication"
+24        android:allowBackup="true"
+24-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:6:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.10.1] /home/emobilis/.gradle/caches/transforms-3/a197831e9bdb79abd7f7d499aa9bad55/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:7:9-65
+27        android:debuggable="true"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:8:9-54
+29        android:icon="@mipmap/my_elecricity"
+29-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:9:9-45
+30        android:label="@string/app_name"
+30-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:10:9-41
+31        android:roundIcon="@drawable/eletric"
+31-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:11:9-46
+32        android:supportsRtl="true"
+32-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:12:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.CityElectribuy" >
+34-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:13:9-52
+35        <activity
+35-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:15:9-17:40
+36            android:name="com.example.cityelectribuy.PowerusegeActivity"
+36-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:16:13-47
+37            android:exported="false" />
+37-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:17:13-37
+38        <activity
+38-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:18:9-20:40
+39            android:name="com.example.cityelectribuy.WarrantyActivity"
+39-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:19:13-45
+40            android:exported="false" />
+40-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:20:13-37
+41        <activity
+41-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:21:9-23:40
+42            android:name="com.example.cityelectribuy.SecurityActivity"
+42-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:22:13-45
+43            android:exported="false" />
+43-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:23:13-37
+44        <activity
+44-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:24:9-26:40
+45            android:name="com.example.cityelectribuy.AccessabilityActivity"
+45-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:25:13-50
+46            android:exported="false" />
+46-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:26:13-37
+47        <activity
+47-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:27:9-29:40
+48            android:name="com.example.cityelectribuy.QualityActivity"
+48-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:28:13-44
+49            android:exported="false" />
+49-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:29:13-37
+50        <activity
+50-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:30:9-32:40
+51            android:name="com.example.cityelectribuy.ViewdivicesActivity"
+51-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:31:13-48
+52            android:exported="false" />
+52-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:32:13-37
+53        <activity
+53-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:33:9-35:40
+54            android:name="com.example.cityelectribuy.AdddivicesActivity"
+54-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:34:13-47
+55            android:exported="false" />
+55-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:35:13-37
+56        <activity
+56-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:36:9-38:40
+57            android:name="com.example.cityelectribuy.logoutActivity"
+57-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:37:13-43
+58            android:exported="false" />
+58-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:38:13-37
+59        <activity
+59-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:39:9-41:40
+60            android:name="com.example.cityelectribuy.SearchActivity"
+60-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:40:13-43
+61            android:exported="false" />
+61-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:41:13-37
+62        <activity
+62-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:42:9-44:40
+63            android:name="com.example.cityelectribuy.SettingsActivity"
+63-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:43:13-45
+64            android:exported="false" />
+64-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:44:13-37
+65        <activity
+65-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:45:9-47:40
+66            android:name="com.example.cityelectribuy.DashboardActivity"
+66-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:46:13-46
+67            android:exported="false" />
+67-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:47:13-37
+68        <activity
+68-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:48:9-56:20
+69            android:name="com.example.cityelectribuy.MainActivity"
+69-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:49:13-41
+70            android:exported="true" >
+70-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:50:13-36
+71            <intent-filter>
+71-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:51:13-55:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:52:17-69
+72-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:52:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:54:17-77
+74-->/home/emobilis/AndroidStudioProjects/CityElectribuy/app/src/main/AndroidManifest.xml:54:27-74
+75            </intent-filter>
+76        </activity>
+77
+78        <service
+78-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/emobilis/.gradle/caches/transforms-3/3d726b6d3101d654c58d52cb8d472247/transformed/jetified-firebase-storage-ktx-20.2.0/AndroidManifest.xml:11:9-17:19
+79            android:name="com.google.firebase.components.ComponentDiscoveryService"
+79-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/emobilis/.gradle/caches/transforms-3/3d726b6d3101d654c58d52cb8d472247/transformed/jetified-firebase-storage-ktx-20.2.0/AndroidManifest.xml:12:13-84
+80            android:directBootAware="true"
+80-->[com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c0dad188b3f5813edbdff13a04f5f1b9/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:34:13-43
+81            android:exported="false" >
+81-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/emobilis/.gradle/caches/transforms-3/3d726b6d3101d654c58d52cb8d472247/transformed/jetified-firebase-storage-ktx-20.2.0/AndroidManifest.xml:13:13-37
+82            <meta-data
+82-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/emobilis/.gradle/caches/transforms-3/3d726b6d3101d654c58d52cb8d472247/transformed/jetified-firebase-storage-ktx-20.2.0/AndroidManifest.xml:14:13-16:85
+83                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+83-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/emobilis/.gradle/caches/transforms-3/3d726b6d3101d654c58d52cb8d472247/transformed/jetified-firebase-storage-ktx-20.2.0/AndroidManifest.xml:15:17-122
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/emobilis/.gradle/caches/transforms-3/3d726b6d3101d654c58d52cb8d472247/transformed/jetified-firebase-storage-ktx-20.2.0/AndroidManifest.xml:16:17-82
+85            <meta-data
+85-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/a2b9e57d44bc397702325e7c6f5845de/transformed/jetified-firebase-database-ktx-20.2.1/AndroidManifest.xml:14:13-16:85
+86                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+86-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/a2b9e57d44bc397702325e7c6f5845de/transformed/jetified-firebase-database-ktx-20.2.1/AndroidManifest.xml:15:17-124
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/emobilis/.gradle/caches/transforms-3/a2b9e57d44bc397702325e7c6f5845de/transformed/jetified-firebase-database-ktx-20.2.1/AndroidManifest.xml:16:17-82
+88            <meta-data
+88-->[com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/82c4c2298871bfcb36f8eef3daa22317/transformed/jetified-firebase-common-ktx-20.3.2/AndroidManifest.xml:14:13-16:85
+89                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+89-->[com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/82c4c2298871bfcb36f8eef3daa22317/transformed/jetified-firebase-common-ktx-20.3.2/AndroidManifest.xml:15:17-113
+90                android:value="com.google.firebase.components.ComponentRegistrar" />
+90-->[com.google.firebase:firebase-common-ktx:20.3.2] /home/emobilis/.gradle/caches/transforms-3/82c4c2298871bfcb36f8eef3daa22317/transformed/jetified-firebase-common-ktx-20.3.2/AndroidManifest.xml:16:17-82
+91            <meta-data
+91-->[com.google.firebase:firebase-storage:20.2.0] /home/emobilis/.gradle/caches/transforms-3/87a1bc822c58c6b1a9edce82f9737457/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:32:13-34:85
+92                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+92-->[com.google.firebase:firebase-storage:20.2.0] /home/emobilis/.gradle/caches/transforms-3/87a1bc822c58c6b1a9edce82f9737457/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:33:17-107
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.firebase:firebase-storage:20.2.0] /home/emobilis/.gradle/caches/transforms-3/87a1bc822c58c6b1a9edce82f9737457/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:34:17-82
+94            <meta-data
+94-->[com.google.firebase:firebase-database:20.2.1] /home/emobilis/.gradle/caches/transforms-3/76d703eab1508c9b529364dd1feadc20/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:31:13-33:85
+95                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+95-->[com.google.firebase:firebase-database:20.2.1] /home/emobilis/.gradle/caches/transforms-3/76d703eab1508c9b529364dd1feadc20/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:32:17-109
+96                android:value="com.google.firebase.components.ComponentRegistrar" />
+96-->[com.google.firebase:firebase-database:20.2.1] /home/emobilis/.gradle/caches/transforms-3/76d703eab1508c9b529364dd1feadc20/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:33:17-82
+97        </service>
+98
+99        <provider
+99-->[com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c0dad188b3f5813edbdff13a04f5f1b9/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+100            android:name="com.google.firebase.provider.FirebaseInitProvider"
+100-->[com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c0dad188b3f5813edbdff13a04f5f1b9/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+101            android:authorities="com.example.cityelectribuy.firebaseinitprovider"
+101-->[com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c0dad188b3f5813edbdff13a04f5f1b9/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+102            android:directBootAware="true"
+102-->[com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c0dad188b3f5813edbdff13a04f5f1b9/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+103            android:exported="false"
+103-->[com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c0dad188b3f5813edbdff13a04f5f1b9/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+104            android:initOrder="100" />
+104-->[com.google.firebase:firebase-common:20.3.2] /home/emobilis/.gradle/caches/transforms-3/c0dad188b3f5813edbdff13a04f5f1b9/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+105
+106        <activity
+106-->[com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/7d1ccbc2dc6f49928d8f97b2d6c7526d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+107            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+107-->[com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/7d1ccbc2dc6f49928d8f97b2d6c7526d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+108            android:exported="false"
+108-->[com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/7d1ccbc2dc6f49928d8f97b2d6c7526d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+109            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+109-->[com.google.android.gms:play-services-base:18.1.0] /home/emobilis/.gradle/caches/transforms-3/7d1ccbc2dc6f49928d8f97b2d6c7526d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+110
+111        <meta-data
+111-->[com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4297da1b39dbbbb2cd24a3905efdac60/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+112            android:name="com.google.android.gms.version"
+112-->[com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4297da1b39dbbbb2cd24a3905efdac60/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+113            android:value="@integer/google_play_services_version" />
+113-->[com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/transforms-3/4297da1b39dbbbb2cd24a3905efdac60/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+114
+115        <provider
+115-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/d20d7904ccd8b29d9999e762d1063c51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+116            android:name="androidx.startup.InitializationProvider"
+116-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/d20d7904ccd8b29d9999e762d1063c51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+117            android:authorities="com.example.cityelectribuy.androidx-startup"
+117-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/d20d7904ccd8b29d9999e762d1063c51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+118            android:exported="false" >
+118-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/d20d7904ccd8b29d9999e762d1063c51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+119            <meta-data
+119-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/d20d7904ccd8b29d9999e762d1063c51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+120                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+120-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/d20d7904ccd8b29d9999e762d1063c51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+121                android:value="androidx.startup" />
+121-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/d20d7904ccd8b29d9999e762d1063c51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+122            <meta-data
+122-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/emobilis/.gradle/caches/transforms-3/9963672f592bd9d76450017be02f3445/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+123                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+123-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/emobilis/.gradle/caches/transforms-3/9963672f592bd9d76450017be02f3445/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+124                android:value="androidx.startup" />
+124-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/emobilis/.gradle/caches/transforms-3/9963672f592bd9d76450017be02f3445/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+125        </provider>
+126    </application>
+127
+128</manifest>
